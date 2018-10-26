@@ -8,10 +8,10 @@ To run project on your local install latest version of nodejs on your machine
 
 download project
 
-cd project drirectory
+`cd weddriverio-cucumber-tutorial-1`
 
 Run npm i to install all the devDependencies
 
 Execute cucumber scripts using following command
 
-npm run test
+`npm run test`
